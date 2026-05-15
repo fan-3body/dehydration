@@ -1,0 +1,10 @@
+{
+  "key.categories.dehydration": "Dehydration",
+  "key.dehydration.trigger": "Toggle Three-Body Dehydration",
+  "message.dehydration.enter": "Three-body dehydration entered",
+  "message.dehydration.exit": "Recovery complete",
+  "message.dehydration.rehydrating": "Rehydrating",
+  "message.dehydration.first_dehydration": "First dehydration recorded",
+  "message.dehydration.first_rehydration": "First rehydration recorded",
+  "message.dehydration.requires_heat_stroke": "Heat stroke is required to enter dehydration"
+}

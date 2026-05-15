@@ -1,0 +1,8 @@
+#Mob effects that count as Legendary Survival Overhaul heat stroke.
+heatStrokeEffects = ["legendarysurvivaloverhaul:heat_stroke", "legendarysurvivaloverhaul:heatstroke"]
+#If true, the server only allows K to enter dehydration mode while heat stroke is active.
+requireHeatStrokeToEnter = true
+#How long recovery conditions must hold before returning to normal.
+#Range: 20 ~ 12000
+rehydrationTicks = 100
+

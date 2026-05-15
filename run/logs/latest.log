@@ -1,0 +1,302 @@
+[105月2026 17:29:44.465] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 5, --assetsDir, C:\Users\three\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.4.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[105月2026 17:29:44.465] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.19 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[105月2026 17:29:44.724] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[105月2026 17:29:44.845] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[105月2026 17:29:44.925] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[105月2026 17:29:45.085] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/three/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[105月2026 17:29:45.092] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: Intel(R) Iris(R) Xe Graphics GL version 4.6.0 - Build 30.0.100.9864, Intel
+[105月2026 17:29:45.687] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\three\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.4.20\c354b21002937b393c4f86163a98dccdf1d51e72\javafmllanguage-1.20.1-47.4.20.jar is missing mods.toml file
+[105月2026 17:29:45.689] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\three\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.4.20\865d75f8c18329ddb31db5856701ab86609108b5\lowcodelanguage-1.20.1-47.4.20.jar is missing mods.toml file
+[105月2026 17:29:45.689] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\three\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.4.20\af599930362212ae937e392709f49047e6abbbf\mclanguage-1.20.1-47.4.20.jar is missing mods.toml file
+[105月2026 17:29:45.695] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\three\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.4.20\e8cc697c69f3911e76caa2f005d9486597cd7448\fmlcore-1.20.1-47.4.20.jar is missing mods.toml file
+[105月2026 17:29:45.846] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[105月2026 17:29:47.647] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclientuserdev' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\three\.gradle\caches\forge_gradle\assets, --assetIndex, 5]
+[105月2026 17:29:53.068] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 188 Datafixer optimizations took 230 milliseconds
+[105月2026 17:29:55.594] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/three/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.20_mapped_official_1.20.1/forge-1.20.1-47.4.20_mapped_official_1.20.1.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[105月2026 17:29:55.595] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/three/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.4.20_mapped_official_1.20.1/forge-1.20.1-47.4.20_mapped_official_1.20.1.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[105月2026 17:29:55.631] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[105月2026 17:29:55.638] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[105月2026 17:29:55.802] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[105月2026 17:29:56.208] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.20, for MC 1.20.1 with MCP 20230612.114412
+[105月2026 17:29:56.208] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.20 Initialized
+[105月2026 17:29:57.595] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [dehydration]
+[105月2026 17:29:58.066] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[105月2026 17:29:58.211] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\three\Desktop\minecraft\mod\dehydration\run\config\legendarysurvivaloverhaul\legendarysurvivaloverhaul-common.toml is not correct. Correcting
+[105月2026 17:29:58.213] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key temperature.wetness.Wetness Immunity Mounts was corrected from [alexscaves:submarine, immersive_machinery:bamboo_bee, immersive_machinery:tunnel_digger, immersive_machinery:redstone_sheep, immersive_machinery:copperfin] to its default, [alexscaves:submarine, immersive_machinery:bamboo_bee, immersive_machinery:tunnel_digger, immersive_machinery:redstone_sheep, immersive_machinery:copperfin]. 
+[105月2026 17:29:58.261] [Worker-Main-7/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[105月2026 17:29:58.285] [Thread-3/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file C:\Users\three\Desktop\minecraft\mod\dehydration\run\config\legendarysurvivaloverhaul\legendarysurvivaloverhaul-common.toml is not correct. Correcting
+[105月2026 17:29:58.852] [Worker-Main-4/INFO] [org.fan_3body.dehydration.Dehydration/]: Dehydration Mode initialized
+[105月2026 17:29:58.938] [Worker-Main-3/WARN] [net.minecraft.client.renderer.texture.SpriteLoader/]: Texture legendarysurvivaloverhaul:item/juice/healing_item_regen with size 18x18 limits mip level from 4 to 1
+[105月2026 17:29:59.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[105月2026 17:29:59.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.4.20 Target: null
+[105月2026 17:30:01.574] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[105月2026 17:30:01.574] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[105月2026 17:30:01.614] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on 耳机 (SENGIRNY ARV3)
+[105月2026 17:30:01.615] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[105月2026 17:30:01.728] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[105月2026 17:30:01.811] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[105月2026 17:30:01.813] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[105月2026 17:30:01.817] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[105月2026 17:30:01.819] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[105月2026 17:30:01.852] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[105月2026 17:30:01.854] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[105月2026 17:30:01.856] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[105月2026 17:30:01.857] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[105月2026 17:30:02.678] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[105月2026 17:30:03.478] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[105月2026 17:30:03.488] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[105月2026 17:30:03.491] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[105月2026 17:30:03.971] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: 0
+[105月2026 17:30:18.682] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[105月2026 17:30:20.714] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[105月2026 17:30:20.877] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1328 advancements
+[105月2026 17:30:20.887] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 6 temperature consumables
+[105月2026 17:30:20.891] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 0 temperature consumable blocks
+[105月2026 17:30:20.895] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 21 temperature blocks
+[105月2026 17:30:20.900] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 39 temperature items
+[105月2026 17:30:20.904] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 7 temperature biomes
+[105月2026 17:30:20.907] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 8 temperature fuel items
+[105月2026 17:30:20.909] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 3 temperature dimensions
+[105月2026 17:30:20.910] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 1 temperature mounts
+[105月2026 17:30:20.910] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 0 temperature origins
+[105月2026 17:30:20.919] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 24 thirst consumables
+[105月2026 17:30:20.923] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 4 thirst blocks
+[105月2026 17:30:20.927] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 22 body parts damage sources
+[105月2026 17:30:20.931] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 6 body healing consumables
+[105月2026 17:30:20.935] [Render thread/INFO] [sfiomn.legendarysurvivaloverhaul.LegendarySurvivalOverhaul/]: Loaded 4 body part resistance items
+[105月2026 17:30:21.378] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20.1
+[105月2026 17:30:21.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[105月2026 17:30:23.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[105月2026 17:30:25.506] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[105月2026 17:30:25.543] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[105月2026 17:30:25.543] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[105月2026 17:30:25.585] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[105月2026 17:30:25.604] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[105月2026 17:30:25.697] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[105月2026 17:30:26.192] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：1%
+[105月2026 17:30:26.700] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：88%
+[105月2026 17:30:26.789] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[105月2026 17:30:26.792] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3609 ms
+[105月2026 17:30:26.912] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[105月2026 17:30:26.916] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[105月2026 17:30:27.040] [Render thread/WARN] [io.netty.util.internal.SystemPropertyUtil/]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[105月2026 17:30:27.667] [Netty Local Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
+[105月2026 17:30:27.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:5ecb1a78] logged in with entity id 6 at (-17107.603171465795, 63.0, -2184.874307350038)
+[105月2026 17:30:27.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev加入了游戏
+[105月2026 17:30:27.897] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=login player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:30:27.897] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=login player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:30:28.313] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 23 advancements
+[105月2026 17:31:13.346] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=clone player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:31:13.346] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=clone player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:31:13.362] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=respawn player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:31:13.362] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=respawn player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:31:26.140] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=wake player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:31:26.140] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=wake player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:32:44.997] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][REQUEST] Toggle packet received from Dev
+[105月2026 17:32:45.000] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][REQUEST] Enter accepted for Dev
+[105月2026 17:32:45.002] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][STATE] Dev normal -> dehydrated reason=manual_request firstDehydration=true
+[105月2026 17:32:45.002] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][THIRST] Clear thirst on dehydration player=Dev cleared=true
+[105月2026 17:32:45.002] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=state_change:dehydrated player=Dev state=dehydrated, firstDehydration=true, firstRehydration=false
+[105月2026 17:32:45.008] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] First dehydration recorded
+[105月2026 17:32:45.848] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:32:48.350] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:32:49.049] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=0.3 state=dehydrated
+[105月2026 17:32:50.847] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:32:53.097] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=0.6 state=dehydrated
+[105月2026 17:32:53.348] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:32:55.848] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:32:57.149] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=0.9 state=dehydrated
+[105月2026 17:32:58.349] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:00.849] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:01.198] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=1.2 state=dehydrated
+[105月2026 17:33:03.349] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:05.249] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=1.5 state=dehydrated
+[105月2026 17:33:05.851] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:08.348] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:09.300] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=1.8 state=dehydrated
+[105月2026 17:33:10.851] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:13.348] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:13.349] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=2.1 state=dehydrated
+[105月2026 17:33:15.847] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:17.397] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=2.4 state=dehydrated
+[105月2026 17:33:18.352] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将Dev传送至0.500000, 0.000000, -2186.651432]
+[105月2026 17:33:26.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6061ms or 121 ticks behind
+[105月2026 17:33:26.556] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 已将Dev传送至0.500000, 0.000000, -2186.651432
+[105月2026 17:33:26.568] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:26.990] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:27.099] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:27.498] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=2.7 state=dehydrated
+[105月2026 17:33:27.506] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 23 advancements
+[105月2026 17:33:27.551] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:28.041] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:28.542] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:29.046] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:29.447] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:29.545] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:30.045] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:30.545] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:31.045] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:31.547] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:33:31.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev在墙里窒息而亡
+[105月2026 17:33:31.554] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=3.0 state=dehydrated
+[105月2026 17:33:31.558] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev在墙里窒息而亡
+[105月2026 17:33:31.945] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:33:33.596] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=clone player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:33:33.596] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=clone player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:33:33.607] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=respawn player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:33:33.607] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=respawn player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:33:48.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将自己的游戏模式设置为创造模式]
+[105月2026 17:33:48.572] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 已将自己的游戏模式设置为创造模式
+[105月2026 17:34:05.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将自己的游戏模式设置为生存模式]
+[105月2026 17:34:05.039] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 已将自己的游戏模式设置为生存模式
+[105月2026 17:35:04.449] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][REQUEST] Toggle packet received from Dev
+[105月2026 17:35:04.449] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][REQUEST] Enter accepted for Dev
+[105月2026 17:35:04.450] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][STATE] Dev normal -> dehydrated reason=manual_request firstDehydration=true
+[105月2026 17:35:04.450] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][THIRST] Clear thirst on dehydration player=Dev cleared=true
+[105月2026 17:35:04.450] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=state_change:dehydrated player=Dev state=dehydrated, firstDehydration=true, firstRehydration=false
+[105月2026 17:35:04.456] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] First dehydration recorded
+[105月2026 17:35:05.597] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:07.998] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:08.498] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=0.3 state=dehydrated
+[105月2026 17:35:10.500] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:12.547] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=0.6 state=dehydrated
+[105月2026 17:35:13.000] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:15.499] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:16.598] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=0.9 state=dehydrated
+[105月2026 17:35:17.999] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:20.498] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:20.655] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=1.2 state=dehydrated
+[105月2026 17:35:22.997] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:24.698] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=1.5 state=dehydrated
+[105月2026 17:35:25.497] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:27.998] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:28.749] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=1.8 state=dehydrated
+[105月2026 17:35:30.499] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:32.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将Dev传送至0.500000, 0.000000, -2118.258114]
+[105月2026 17:35:32.997] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 已将Dev传送至0.500000, 0.000000, -2118.258114
+[105月2026 17:35:32.998] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:35:33.436] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=2.1 state=dehydrated
+[105月2026 17:35:33.682] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:35:33.686] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:35:33.960] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:35:33.989] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:35:34.454] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:35:34.941] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:35:35.240] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[105月2026 17:35:35.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[105月2026 17:35:35.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[105月2026 17:35:35.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[105月2026 17:35:37.764] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:35:37.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将自己的游戏模式设置为创造模式]
+[105月2026 17:35:37.923] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 已将自己的游戏模式设置为创造模式
+[105月2026 17:35:38.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将自己的游戏模式设置为生存模式]
+[105月2026 17:35:38.057] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 已将自己的游戏模式设置为生存模式
+[105月2026 17:35:38.258] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=inWall amount=1.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:35:38.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将自己的游戏模式设置为创造模式]
+[105月2026 17:35:38.707] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 已将自己的游戏模式设置为创造模式
+[105月2026 17:36:09.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将自己的游戏模式设置为旁观模式]
+[105月2026 17:36:09.873] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 已将自己的游戏模式设置为旁观模式
+[105月2026 17:36:25.424] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 23 advancements
+[105月2026 17:36:27.648] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[105月2026 17:36:27.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[105月2026 17:36:27.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[105月2026 17:36:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[105月2026 17:37:12.656] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 23 advancements
+[105月2026 17:37:14.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将自己的游戏模式设置为生存模式]
+[105月2026 17:37:14.972] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 已将自己的游戏模式设置为生存模式
+[105月2026 17:37:15.549] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=2.4 state=dehydrated
+[105月2026 17:37:17.249] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=fall amount=57.0 state=dehydrated reason=non_temperature_or_thirst
+[105月2026 17:37:17.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev从高处摔了下来
+[105月2026 17:37:17.258] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev从高处摔了下来
+[105月2026 17:37:19.183] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=clone player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:37:19.183] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=clone player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:37:19.190] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=respawn player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:37:19.190] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=respawn player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:38:51.250] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:38:53.749] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:38:56.251] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:38:58.750] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:01.254] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:03.753] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:06.252] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:08.761] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:11.252] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:13.752] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:16.256] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:18.758] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:21.250] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:23.756] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:26.249] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:28.748] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:31.252] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:33.753] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:36.251] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:38.748] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:41.249] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:43.747] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:46.417] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=normal reason=not_dehydrated
+[105月2026 17:39:48.202] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][REQUEST] Toggle packet received from Dev
+[105月2026 17:39:48.202] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][REQUEST] Enter accepted for Dev
+[105月2026 17:39:48.203] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][STATE] Dev normal -> dehydrated reason=manual_request firstDehydration=true
+[105月2026 17:39:48.203] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][THIRST] Clear thirst on dehydration player=Dev cleared=true
+[105月2026 17:39:48.203] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=state_change:dehydrated player=Dev state=dehydrated, firstDehydration=true, firstRehydration=false
+[105月2026 17:39:48.206] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] First dehydration recorded
+[105月2026 17:39:48.758] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:39:51.252] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:39:52.251] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=0.3 state=dehydrated
+[105月2026 17:39:53.748] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:39:56.249] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:39:56.300] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=0.6 state=dehydrated
+[105月2026 17:39:58.749] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:40:00.352] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=0.9 state=dehydrated
+[105月2026 17:40:01.249] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:40:03.749] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:40:04.399] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=1.2 state=dehydrated
+[105月2026 17:40:06.249] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:40:08.448] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=1.5 state=dehydrated
+[105月2026 17:40:08.749] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:40:11.248] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:40:12.500] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=1.8 state=dehydrated
+[105月2026 17:40:14.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: 已将Dev传送至-14197.500000, 55.000000, -3383.500000]
+[105月2026 17:40:14.189] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] 已将Dev传送至-14197.500000, 55.000000, -3383.500000
+[105月2026 17:40:14.798] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:40:14.856] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 23 advancements
+[105月2026 17:40:16.290] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.hyperthermia amount=1.0 state=dehydrated
+[105月2026 17:40:16.540] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=2.1 state=dehydrated
+[105月2026 17:40:20.595] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=2.4 state=dehydrated
+[105月2026 17:40:24.644] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=2.7 state=dehydrated
+[105月2026 17:40:28.698] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=3.0 state=dehydrated
+[105月2026 17:40:32.769] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Block attack player=Dev source=legendarysurvivaloverhaul.dehydration amount=3.3 state=dehydrated
+[105月2026 17:40:35.949] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][REQUEST] Toggle packet received from Dev
+[105月2026 17:40:35.949] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][REQUEST] Exit accepted for Dev: state=dehydrated
+[105月2026 17:40:35.950] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][STATE] Dev dehydrated -> normal reason=manual_request finishedRehydratingTicks=0 thirstFull=false heatStroke=false
+[105月2026 17:40:35.950] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=state_change:normal player=Dev state=normal, firstDehydration=true, firstRehydration=false
+[105月2026 17:40:36.803] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.dehydration amount=3.6 state=normal reason=not_dehydrated
+[105月2026 17:40:40.855] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.dehydration amount=3.9 state=normal reason=not_dehydrated
+[105月2026 17:40:44.900] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][DAMAGE] Allow player=Dev source=legendarysurvivaloverhaul.dehydration amount=4.2 state=normal reason=not_dehydrated
+[105月2026 17:40:44.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev 被渴死了
+[105月2026 17:40:44.909] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev 被渴死了
+[105月2026 17:40:47.200] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=clone player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:40:47.200] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=clone player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:40:47.209] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=respawn player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:40:47.209] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=respawn player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:40:52.289] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[105月2026 17:40:52.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[105月2026 17:40:52.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[105月2026 17:40:52.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[105月2026 17:40:55.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: 连接中断
+[105月2026 17:40:55.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev退出了游戏
+[105月2026 17:40:55.998] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Sync request reason=logout player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:40:55.998] [Server thread/INFO] [org.fan_3body.dehydration.Dehydration/]: [3B][SYNC] Send sync reason=logout player=Dev state=normal, firstDehydration=false, firstRehydration=false
+[105月2026 17:40:56.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[105月2026 17:40:56.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[105月2026 17:40:56.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[105月2026 17:40:56.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[105月2026 17:40:57.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[105月2026 17:40:58.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[105月2026 17:40:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[105月2026 17:40:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (新的世界 (4)): All chunks are saved
+[105月2026 17:40:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[105月2026 17:40:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[105月2026 17:40:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
